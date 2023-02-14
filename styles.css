@@ -42,3 +42,16 @@ footer {
 .flag{
   width :10%;
 }
+.butn{
+  margin: 3rem 0 ;
+  text-align: center;
+}
+.refr{
+
+  padding: 1.5rem 2rem;
+  background-color: #4ECCA3;
+  text-decoration: none;
+  font-size: larger;
+  color: #EEEEEE;
+  border-radius: 20%;
+}
